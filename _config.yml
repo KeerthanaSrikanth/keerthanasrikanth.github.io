@@ -20,7 +20,7 @@ resume-url: assets/Resume.pdf
 url: https://keerthanasrikanth.github.io
 # your url: http://USERNAME.github.io
 
-permalink: /mypageurl/
+permalink: /:title/
 
 # To enable google analytics, supply your token below
 analytics-google: 'UA-122880321-1'
