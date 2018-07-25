@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p class="quote">"Life's a climb. But the view is great."</p>
-<p>I am an undergraduate computer science engineering student at BITS Pilani, K.K Birla Goa Campus. I am interested in data science and web development. </p>
+<p>I am an undergraduate Computer Science Engineering student at BITS Pilani, K.K Birla Goa Campus. I am interested in data science and web development. </p>
 <p class="quote">"Commitment is my coffee. It keeps me going."</p>
 
 <h2>Skills</h2>
