@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>"Life's a climb. But the view is great."</p>
+<p class="quote">"Life's a climb. But the view is great."</p>
 <p>I am an undergraduate computer science engineering student at BITS Pilani, K.K Birla Goa Campus. I am interested in data science and web development. </p>
-<p>"Commitment is my coffee. It keeps me going."</p>
+<p class="quote">"Commitment is my coffee. It keeps me going."</p>
 
 <h2>Skills</h2>
 
@@ -22,5 +22,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">2048 Game</a></li>
+	<li><a href="/2048Game/">2048 Game</a></li>
 </ul>
