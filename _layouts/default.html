@@ -16,6 +16,11 @@ layout: compress
     <meta name=description content="{{ site.bio }}">
     <meta name=author content="{{ site.name }}">
     <title>{{page.title}} | Keerthana Srikanth</title>
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:url" content="{{ site.url }}{{page.url}}" />
+    <meta property="og:description" content="{{ site.bio }}">
+    <meta property="og:image" content="assets/images/home_img.jpg">
+    <meta property="og:type" content="article" />
     {% seo %}
     
     {% include favicon.html %}
