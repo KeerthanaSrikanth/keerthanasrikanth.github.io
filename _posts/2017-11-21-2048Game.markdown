@@ -9,7 +9,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "An implementation of the 2048 using Python3 and Pygame"
 category: project
-author: johndoe
+author: KeerthanaSrikanth
 externalLink: false
 ---
 

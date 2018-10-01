@@ -22,5 +22,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
+	<li><a href="/GLMC/">GLMC</a></li>
 	<li><a href="/2048Game/">2048 Game</a></li>
+
 </ul>

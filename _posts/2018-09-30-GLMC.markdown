@@ -1,0 +1,64 @@
+---
+title: "GLMC"
+layout: post
+date: 2018-09-30
+tag: jekyll
+<!-- image: https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg -->
+image: https://i.ytimg.com/vi/Mqef_Q9HySk/hqdefault.jpg
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A basic functional replacement for GLM"
+category: project
+author: KeerthanaSrikanth
+externalLink: false
+---
+
+<!-- ![Screenshot](assests/image/2048.jpg) -->
+
+ >Creating a basic replacement for GLM using *C* with a *Python* wrapper. 
+
+The library includes functions to deal with 2D, 3D and 4D vectors. It also handles 2x2, 3x3, 4x4 matrices.
+The vector library consists of the following basic vector operations:
+* Normalization  
+* Addition, subtraction, multiplication, division (inplace and return)  
+* Scalar multiplication and division  
+* Dot product, cross product  
+* Reflection, refraction  
+
+The matrix library includes the following basic matrix operations:
+* Discriminant  
+* Transposition  
+* Normalization  
+* Addition, subtractoin, multipication and division (inplace and return)   
+* Scalar multiplication and division  
+* Inverse  
+* Translation, rotation, scaling and identity matrices 
+* Orthographic and perspective projection 
+* Automatic normalization  
+* Interconvertible to 1D array form  
+
+The matrices follow column major representation in order to be compatible with OpenGL.  
+The library also handles matrix-vector multiplication.
+
+All the functions have been hard-coded and inlined to increase performance gain.
+
+Developed for the TIP course - Intro to Open Source, conducted at BITS Pilani, K.K Birla Goa Campus.  
+[Click here](https://github.com/KeerthanaSrikanth/glmc/tree/current) to view the project.
+
+---
+
+<!-- What has inside?
+
+- Gulp
+- BrowserSync
+- Stylus
+- SVG
+- Travis
+- No JS
+- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+
+---
+
+[Check it out](http://sergiokopplin.github.io/indigo/) here.
+If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues). -->
