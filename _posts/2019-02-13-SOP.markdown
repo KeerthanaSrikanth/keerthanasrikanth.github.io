@@ -1,0 +1,42 @@
+---
+title: "Graphs & Networks in Biology"
+layout: post
+date: 2019-02-13
+tag: jekyll
+<!-- image: https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg -->
+<!-- image: https://i.ytimg.com/vi/Mqef_Q9HySk/hqdefault.jpg -->
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A study oriented project to study drug and protein inerations using network theory."
+category: project
+author: KeerthanaSrikanth
+externalLink: false
+---
+
+<!-- ![Screenshot](assests/image/2048.jpg) -->
+
+>A study oriented project to study drug and target inerations using **network theory**.
+
+This is an ongoing research project under the guidance of Dr. Sukanta Mondal, Assistant Professor, BITS Goa. I am working with Shruti Sridhar.
+
+I am writing the project code in **Python** and doing network visualization in **Gephi**. 
+  
+<!-- [Click here](https://github.com/KeerthanaSrikanth/glmc/tree/current) to view the project. -->
+
+---
+
+<!-- What has inside?
+
+- Gulp
+- BrowserSync
+- Stylus
+- SVG
+- Travis
+- No JS
+- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+
+---
+
+[Check it out](http://sergiokopplin.github.io/indigo/) here.
+If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues). -->

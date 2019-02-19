@@ -5,7 +5,9 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p class="quote">"Life's a climb. But the view is great."</p>
-<p>I am an undergraduate Computer Science Engineering student at BITS Pilani, K.K Birla Goa Campus. I am interested in data science and web development. </p>
+<p>I am a 2nd year undergraduate Computer Science Engineering student at BITS Pilani, K.K Birla Goa Campus. </p>
+<p>I am primarily interested in <strong>data science</strong> and <strong>network theory</strong>. </p>
+<p>I am also exploring software development and network security </p>
 <p class="quote">"Commitment is my coffee. It keeps me going."</p>
 
 <h2>Skills</h2>
@@ -22,7 +24,10 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
+	<li><a href="/SOP/">Graphs & Networks in Biology</a></li>
+	<li><a href="/FDTA/">Teaching Assistant Allotment</a></li>
 	<li><a href="/GLMC/">GLMC</a></li>
 	<li><a href="/2048Game/">2048 Game</a></li>
+
 
 </ul>

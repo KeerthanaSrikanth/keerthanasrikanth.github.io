@@ -1,0 +1,42 @@
+---
+title: "Teaching Assistant Allotment"
+layout: post
+date: 2018-10-10
+tag: jekyll
+<!-- image: https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg -->
+<!-- image: https://i.ytimg.com/vi/Mqef_Q9HySk/hqdefault.jpg -->
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A program to allot teaching assisants to courses"
+category: project
+author: KeerthanaSrikanth
+externalLink: false
+---
+
+<!-- ![Screenshot](assests/image/2048.jpg) -->
+
+>The program allots TAs to courses based on their preferences, grade in the course and CGPA and instructor preferences.
+
+The program is in *Python*.
+The project was developed in a group upto a basic, functional stage. Further developement is being done by other students.
+
+Developed for the Academic Registration and Counselling Division at BITS Pilani, K.K Birla Goa Campus.  
+<!-- [Click here](https://github.com/KeerthanaSrikanth/glmc/tree/current) to view the project. -->
+
+---
+
+<!-- What has inside?
+
+- Gulp
+- BrowserSync
+- Stylus
+- SVG
+- Travis
+- No JS
+- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+
+---
+
+[Check it out](http://sergiokopplin.github.io/indigo/) here.
+If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues). -->
