@@ -8,7 +8,7 @@ tag: jekyll
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "A study oriented project to study drug and protein inerations using network theory."
+description: "A study oriented project to study drug and protein interactions using network theory."
 category: project
 author: KeerthanaSrikanth
 externalLink: false
@@ -16,7 +16,7 @@ externalLink: false
 
 <!-- ![Screenshot](assests/image/2048.jpg) -->
 
->A study oriented project to study drug and target inerations using **network theory**.
+>A study oriented project to study drug and target interactions using **network theory**.
 
 This is an ongoing research project under the guidance of Dr. Sukanta Mondal, Assistant Professor, BITS Goa. I am working with Shruti Sridhar.
 
