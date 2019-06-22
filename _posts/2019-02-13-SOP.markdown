@@ -18,9 +18,12 @@ externalLink: false
 
 >A study oriented project to study drug and target interactions using **network theory**.
 
-This is an ongoing research project under the guidance of Dr. Sukanta Mondal, Assistant Professor, BITS Goa. I am working with Shruti Sridhar.
+The project aims to predict drug target interactions using link prediction algorithms (supervised machine learning).
+We are presently creating features that can be used to predict drug-target interactions.
 
-I am writing the project code in **Python** and doing network visualization in **Gephi**. 
+This is an ongoing research project with Shruti Sridhar under the guidance of Dr. Sukanta Mondal, Assistant Professor, BITS Goa. 
+
+The project code is in **Python** and network visualization has been done in **Gephi**. 
   
 <!-- [Click here](https://github.com/KeerthanaSrikanth/glmc/tree/current) to view the project. -->
 
